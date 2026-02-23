@@ -1,1 +1,0 @@
-# Curso-de-React-JS-19-e-Next.js-15
